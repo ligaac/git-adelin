@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello world!
 Vled
 =======
 Nu!
+>>>>>>> master
+=======
+Nu!
+hello world! dsdasdasdasdsa
 >>>>>>> master
